@@ -17,7 +17,7 @@
     </header>
     <nav style="background-color: #b0717b; display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: 20px auto 0 auto; padding: 0 20px;">
         <div class="logo" style="display: flex; align-items: center;">
-            <img src="C:/Users/arath/Downloads/logo.jpg" alt="Flower Shop Logo" style="width: 50px; height: 50px; margin-right: 10px;">
+            <img src="![image](https://github.com/Arathi-Anil/BloomWonder-webpage/assets/159655992/de5c84df-8c89-4f27-9a28-30c4d6fa5c44)" alt="Flower Shop Logo" style="width: 50px; height: 50px; margin-right: 10px;">
         </div>
         <ul style="list-style: none; display: flex; margin: 0; padding: 0;">
             <li style="margin-left: 20px;"><a href="#home" style="text-decoration: none; color: #670a18; font-weight: bold;">Home</a></li>
