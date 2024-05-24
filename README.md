@@ -8,7 +8,7 @@
 <body style="font-family:Georgia, 'Times New Roman', Times, serif; background-color: #f7f7f753; color: #a21a6a; line-height: 1.6; margin: 0; padding: 0; box-sizing: border-box;">
     <header style="position: relative; background-color: #ffebee; padding: 20px 0; text-align: center;">
         <div style="position: relative; height: 300px; max-width: 1200px; margin: 0 auto; overflow: hidden;">
-            <img src="https://jooinn.com/images/spring-flower-1.jpg" style="width: 100%; height: 100%; object-fit:cover; ;">
+            <img src="https://tse1.mm.bing.net/th?id=OIP.AQ7bywIG1Lwk3czNH8MHzQHaFI&pid=Api&P=0&h=180" style="width: 100%; height: 100%; object-fit:cover; ;">
             <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #fff; padding: 10px 20px; border-radius: 10px;">
                 <h1 style="font-size: 50px;color: #2e0309;font-weight: bolder;font-style: oblique; margin: 0;">Bloom Wonder</h1>
             </div>
@@ -17,7 +17,7 @@
     </header>
     <nav style="background-color: #b0717b; display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: 20px auto 0 auto; padding: 0 20px;">
         <div class="logo" style="display: flex; align-items: center;">
-            <img src="https://tse4.mm.bing.net/th?id=OIP.vH6cPGHCicGAa2dWMpR7IAHaE8&pid=Api&P=0&h=180" alt="Flower Shop Logo" style="width: 50px; height: 50px; margin-right: 10px;">
+            <img src="https://jooinn.com/images/spring-flower-1.jpg" alt="Flower Shop Logo" style="width: 50px; height: 50px; margin-right: 10px;">
         </div>
         <ul style="list-style: none; display: flex; margin: 0; padding: 0;">
             <li style="margin-left: 20px;"><a href="#home" style="text-decoration: none; color: #670a18; font-weight: bold;">Home</a></li>
